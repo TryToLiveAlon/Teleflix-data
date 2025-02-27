@@ -1,12 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <config>
-    <tr-link>https://i.ibb.co/FqK45rfJ/170859-3500x1969-desktop-hd-venom-background-photo.jpg</tr-link>
-    <tr-link>https://i.ibb.co/TBhtKLkQ/IMG-20250209-162258-906.jpg</tr-link>
-
-    <nc>https://i.ibb.co/FqK45rfJ/170859-3500x1969-desktop-hd-venom-background-photo.jpg</nc>
-    <nc>https://i.ibb.co/TBhtKLkQ/IMG-20250209-162258-906.jpg</nc>
-    <nc>https://i.ibb.co/TBhtKLkQ/IMG-20250209-162258-906.jpg</nc>
-    <nc>https://i.ibb.co/TBhtKLkQ/IMG-20250209-162258-906.jpg</nc>
-
+    <trending>
+        <name>Venom</name>
+        <trailer>https://m.media-amazon.com/images/M/MV5BY2VkZDBkNWEtNjk3Ny00YTM0LWI3NzctYTU0MWIxOTM5Mzg3XkEyXkFqcGdeQXZ3ZXNsZXk@._V1_.jpg</trailer>
+    </trending>
+    <trending>
+        <name>Inception</name>
+        <trailer>https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjI4Ml5BMl5BanBnXkFtZTcwODI5OTM0Mw@@._V1_.jpg</trailer>
+    </trending>
+    <trending>
+        <name>Interstellar</name>
+        <trailer>https://m.media-amazon.com/images/M/MV5BMjIxNTU4MzY4MF5BMl5BanBnXkFtZTgwNjQyMTI3MjE@._V1_.jpg</trailer>
+    </trending>
+    <trending>
+        <name>Avatar</name>
+        <trailer>https://m.media-amazon.com/images/M/MV5BMTYwNjM0NTkxOF5BMl5BanBnXkFtZTgwNjQzNzYzMDE@._V1_.jpg</trailer>
+    </trending>
+    <trending>
+        <name>The Dark Knight</name>
+        <trailer>https://m.media-amazon.com/images/M/MV5BN2E2ZjYxNzktZjIwZC00ZDVmLWEyNTAtNjZhMjNjZGM0YjJjXkEyXkFqcGdeQXVyNDY2MjcyOTQ@._V1_.jpg</trailer>
+    </trending>
 </config>
-
